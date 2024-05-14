@@ -79,6 +79,5 @@ input{
 }
 
 .completed{
-    text-decoration: line-through;
-    background-color: chartreuse;
+    background-color: greenyellow;
 }
